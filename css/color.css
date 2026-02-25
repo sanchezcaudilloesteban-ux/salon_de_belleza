@@ -1,0 +1,12 @@
+:root{
+    /* Paleta para peluquería de mujer: rosa, melocotón y tonos suaves */
+    --color-primary: #D96B9A;
+    --color-primary-dark: #B04C79;
+
+    --color-secondary: #F6C38A;
+    --color-secondary-dark: #E09B4A;
+
+    --color-gray-light: #fff7f8;
+    --color-gray: #f2e9ec;
+    --color-gray-dark: #4a3a40;
+}
